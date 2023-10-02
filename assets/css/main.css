@@ -2955,7 +2955,7 @@ input, select, textarea {
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
 				box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.125);
-				color: #ffffff;
+				color: #111111;
 			}
 
 				.wrapper.style1 input[type="submit"]:hover,
